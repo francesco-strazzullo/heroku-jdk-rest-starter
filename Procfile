@@ -1,0 +1,1 @@
+web: java -jar build/libs/heroku-starter-0.0.1.jar
